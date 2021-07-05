@@ -1,0 +1,10 @@
+.skip-diet{
+    margin: 5%; 
+    display: flex;
+    
+} 
+section img{
+
+    height: 300px;
+    width: 200px;
+}
