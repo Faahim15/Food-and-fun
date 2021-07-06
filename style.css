@@ -1,6 +1,7 @@
 .skip-diet{
     margin bottom: 50%; 
     display: flex;
+    
     } 
     .orange-color{
         color: orange;
@@ -39,18 +40,18 @@ h1{
     background-size: 80%;
     background-position: center;
     padding left: 100%;
-    margin-top: 7%
     padding right: 10%
     
     
 } 
-.sec-b-controler{ 
+#sec-b-controler{ 
     padding-right: 20%;
     margin-bottom: 23%;
     margin-top: 10%;
 } 
 .recipies-heading{
     text-align: center;
+    display: block;
     
 }
 .food-menu-card{
