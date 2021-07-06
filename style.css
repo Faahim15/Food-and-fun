@@ -1,24 +1,28 @@
 .skip-diet{
-    margin bottom: 150px; 
+    margin bottom: 50%; 
     display: flex;
-    
-} 
+    } 
+    .orange-color{
+        color: orange;
+    }
 .width-controling{
     padding-left: 10%;
     width: 80%;
+    
 }
-body{
-    margin: 0;
-}
+
 h1{
     font-size: 55px;
     display: flex;
 }
+
 .width-controling img{
 
     height: 300px;
     width: 200px;
-    margin-top: 14%;
+    margin-top: 40%;
+    margin-bottom: 30%;
+    
 } 
  .ordering-food{
     text-decoration: none; 
@@ -29,3 +33,47 @@ h1{
     padding: 11px 42px; 
     border-radius: 5px;
 } 
+.Background-shape{
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: center;
+    padding left: 100%;
+    margin-top: 7%
+    padding right: 10%
+    
+    
+} 
+.sec-b-controler{ 
+    padding-right: 20%;
+    margin-bottom: 23%;
+    margin-top: 10%;
+} 
+.recipies-heading{
+    text-align: center;
+    
+}
+.food-menu-card{
+    display: flex;
+    margin-bottom: 100px;
+}
+.food-menu-card img{
+    width: 95%;
+    border-radius: 8px;
+    padding: 5px;
+}
+.various-food{
+    width: 35%;
+    padding-left: 10px;
+    margin-left: 3%;
+    margin-right: 3%;
+   
+    border-radius: 10px;
+    box-shadow: 10px 15px 30px gray;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 35px;
+}
