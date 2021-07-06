@@ -1,10 +1,31 @@
 .skip-diet{
-    margin: 5%; 
+    margin bottom: 150px; 
     display: flex;
     
 } 
-section img{
+.width-controling{
+    padding-left: 10%;
+    width: 80%;
+}
+body{
+    margin: 0;
+}
+h1{
+    font-size: 55px;
+    display: flex;
+}
+.width-controling img{
 
     height: 300px;
     width: 200px;
-}
+    margin-top: 14%;
+} 
+ .ordering-food{
+    text-decoration: none; 
+    background-image: linear-gradient(hotpink
+    ,tomato); 
+    color: white; 
+    font-weight: 715;
+    padding: 11px 42px; 
+    border-radius: 5px;
+} 
